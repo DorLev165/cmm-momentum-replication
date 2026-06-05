@@ -1,5 +1,7 @@
 # Characteristic-Managed Momentum (CMM) Replication
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DorLev165/cmm-momentum-replication/blob/master/notebooks/demo.ipynb)
+
 A Python replication of the Characteristic-Managed Momentum strategy. A feed-forward neural network learns optimal softmax weights over a stock's past 231 daily returns, conditioned on firm characteristics, to predict next-month cross-sectional returns and construct long/short portfolios.
 
 ## How It Works
