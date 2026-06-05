@@ -1,0 +1,39 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Output files
+*.png
+*.zip
+*.docx
+plots/
+plots_*/
+paper/
+paper_combined/
+combined/
+submission/
+cmm_submission/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
